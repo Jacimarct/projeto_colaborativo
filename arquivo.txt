@@ -1,1 +1,2 @@
 Primeira linha no repositório local (escrita pelo usuário: Jacimar Carlos Tinelli).
+Segunda linha do projeto, após criação do repositório remoto. Jacimar Carlos Tinelli
